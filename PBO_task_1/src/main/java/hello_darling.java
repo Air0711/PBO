@@ -3,14 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.air.pbo_task_1;
 
 /**
  *
  * @author D-20
  */
-public class HELLO {
+public class hello_darling {
     public static void main(String[] args) {
-        System.out.println("HELLO sayang");
+        System.out.println("hello_darling.main()");
     }
 }
