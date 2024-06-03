@@ -9,9 +9,8 @@ package com.air.pbo_task_1;
  *
  * @author D-20
  */
-public class Yowhatsupbro {
+public class HELLO {
     public static void main(String[] args) {
-        System.out.println("Yo whatsup bro");
+        System.out.println("HELLO sayang");
     }
-    
 }
